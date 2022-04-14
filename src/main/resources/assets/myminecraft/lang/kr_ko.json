@@ -1,3 +1,5 @@
 {
-  "item.myminecraft.example_item": "Example Item"
+  "item.myminecraft.example_item": "Example Item",
+  "itemGroup.myminecraft" : "Myminecraft mod tab",
+  "block.myminecraft.example_block" : "Example Item"
 }
