@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "" : {
+            "model" : "myminecraft:block/example_block"
+        }
+    }
+}

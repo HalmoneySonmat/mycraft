@@ -1,5 +1,6 @@
 package com.custom.myminecraft;
 
+import com.custom.myminecraft.init.BlockInit;
 import com.custom.myminecraft.init.ItemInit;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
@@ -28,6 +29,7 @@ public class MyMinecraft{
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ItemInit.ITEMS.register(bus);
+        BlockInit.BLOCKS.register(bus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
