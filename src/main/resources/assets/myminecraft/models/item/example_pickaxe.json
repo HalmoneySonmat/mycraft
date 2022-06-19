@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures" : {
+      "layer0": "myminecraft:item/example_pickaxe_icon"
+  }
+}

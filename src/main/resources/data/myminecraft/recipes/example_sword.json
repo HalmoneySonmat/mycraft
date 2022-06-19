@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "myminecraft:ice_item"
+    }
+  },
+  "result": {
+    "item": "myminecraft:example_sword"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern" : [
+        "III",
+        "III",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item" : "myminecraft:example_item"
+        }
+    },
+    "result": {
+        "item": "myminecraft:example_block",
+        "count": 1
+    }
+}

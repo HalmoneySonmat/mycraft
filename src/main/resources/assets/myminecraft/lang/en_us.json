@@ -1,0 +1,9 @@
+{
+  "item.myminecraft.example_item": "Example Item",
+  "item.myminecraft.example_fuel": "Example Fuel",
+  "item.myminecraft.example_pickaxe": "Example Pickaxe",
+  "item.myminecraft.example_sword": "Example Sword",
+  "itemGroup.myminecraft" : "Myminecraft mod tab",
+  "block.myminecraft.example_block" : "Example Item",
+  "menu.singleplayer" : "single"
+}
